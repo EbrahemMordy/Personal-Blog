@@ -48,7 +48,7 @@ The UI components and design were developed with assistance from AI Agents, enha
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/personal-blog.git
+git clone https://github.com/EbrahemMordy/Personal-Blog.git
 cd personal-blog/Personal-Blog
 ```
 
@@ -90,4 +90,4 @@ npm start
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
